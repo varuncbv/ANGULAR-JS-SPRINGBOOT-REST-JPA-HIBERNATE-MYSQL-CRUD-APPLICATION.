@@ -1,0 +1,5 @@
+com\letsstartcoding\angularjsrestapidemo\repository\EmployeeRepository.class
+com\letsstartcoding\angularjsrestapidemo\controller\EmployeeResource.class
+com\letsstartcoding\angularjsrestapidemo\sevice\EmployeeService.class
+com\letsstartcoding\angularjsrestapidemo\CrudApp.class
+com\letsstartcoding\angularjsrestapidemo\model\Employee.class
